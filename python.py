@@ -1,3 +1,3 @@
-print("Hello World!")
+print("Hello World! (main)")
 a = 4
 print(a)
